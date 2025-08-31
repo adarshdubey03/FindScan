@@ -22,3 +22,12 @@ Offset: Shifts bands forward/backward by N bars (default = 0).
 📊 KLineCharts Version
 KLineCharts: 9.8.12
 
+## 🖼️ Screenshots / Demo
+
+![Screenshot 1](./screenshots/indicator1.png)  
+![Screenshot 2](./screenshots/indicator2.png)
+
+
+
+
+
