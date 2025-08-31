@@ -2,6 +2,8 @@
 
 ## ⚙️ Setup / Run Instructions
 ```bash
+git clone https://github.com/adarshdubey03/FindScan.git
+cd FindScan
 npm install
 npm run dev
 Then open http://localhost:3000 in your browser.
@@ -19,3 +21,4 @@ Offset: Shifts bands forward/backward by N bars (default = 0).
 
 📊 KLineCharts Version
 KLineCharts: 9.8.12
+
